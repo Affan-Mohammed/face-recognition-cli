@@ -1,25 +1,17 @@
 # SKYHAWK
 Skyhawk is a CLI application that uses face recognition to add attendance of registered users to a csv file.
 
-### Motivation
-My mum being a teacher at my school I noticed she had to wait in a queue in the morning to use her fingerprint to mark attendance. Which made me think the school must appoint a clerk who would look at people entering the building and mark their attendance and so skyhawk was born to replace the clerk I envisioned. Well AI is definitely going to take away jobs
-
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/devqueue/Skyhawk-cli)
-
-#### Video Demo: https://youtu.be/1gWSH6qF8_s
 
 ### Installing the App:
 
 #### 1. Using the repo:
    Follow the given steps to test the code:
     1. `git clone https://github.com/devqueue/Skyhawk-cli.git`
-    2. `cd Skyhawk-cli`
+    2. `cd face-recognition-cli`
     3. `pip install -r requirements.txt`
     4. `pip install -e . `
 
-#### 2. Using pip:
-
-   `pip install skyhawk`
 
 ### Testing the code:
 You can initialize and register users and capture their faces.
