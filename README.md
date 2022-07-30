@@ -1,5 +1,5 @@
 # Face-recognition
-Skyhawk is a CLI application that uses face recognition to add attendance of registered users to a csv file.
+Face recognition is a CLI application that uses face recognition to add attendance of registered users to a csv file.
 
 ### Installing the App:
 
